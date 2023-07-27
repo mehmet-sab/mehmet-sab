@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mehmet-sab
+- 👀 I’m interested in IoT, Dynamics 365 and C#
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on IoT Projects
+- 📫 You can send message to me.
